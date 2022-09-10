@@ -1,4 +1,4 @@
-Hola, mi nombre es Isaí Medina, soy un desarrollador web full Stack especializado en el código del backend, me gusta llevar mi trabajo al máximo nivel de detalle
+<i class="fa fa-flag"></i>Hola, mi nombre es Isaí Medina, soy un desarrollador web full Stack especializado en el código del backend, me gusta llevar mi trabajo al máximo nivel de detalle
 
 Hello, my name is Isaí Medina, I am a full stack web developer specialized in backend code, I like to take my work to the highest level of detail
 

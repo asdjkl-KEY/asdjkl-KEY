@@ -1,8 +1,8 @@
-Hola, mi nombre es Isaí Medina, soy un desarrollador web full Stack especializado en el código del backend, me gusta llevar mi trabajo al máximo nivel de detalle.
+Mi nombre es Isaí Medina. Soy un estudiante en formación y desarrollador en entrenamiento. Me encanta programar y estoy abierto a nuevos desafíos
 
-Hello, my name is Isaí Medina, I am a full stack web developer specialized in backend code, I like to take my work to the highest level of detail.
+My name is Isai Medina. I am a trainee student and developer in training. I love programming and I am open to new challenges.
 
-Olá, meu nome é Isaí Medina, sou desenvolvedor web Full Stack especializado no código do backend, eu gosto de levar meu trabalho ao máximo nivel do detalhe.
+Meu nome é Isai Medina. Sou um estudante em formação e desenvolvedor em treinamento. Amo programação e estou aberto a novos desafios.
 
 <!---
 asdjkl-KEY/asdjkl-KEY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
